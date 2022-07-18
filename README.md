@@ -11,6 +11,7 @@
 * Lab10: Image Display Control
 * Lab11: Local Binary Pattern
 * Lab12: Digit matching machine APRII
+* Online Test: CORDIC Algorithm
 * Lab Bonus: Formal Verification
 * Midterm Project: Time Of Flight
 * Final Project: Improved Time Of Flight
