@@ -15,3 +15,7 @@
 * Lab Bonus: Formal Verification
 * Midterm Project: Time Of Flight
 * Final Project: Improved Time Of Flight
+
+# Tips
+* Use counter(s) to control the data flow and control signals of SRAM and DRAM
+* 01 pass + 02 pass + 03 error: Trace the sdf file to find the siganl in the 03 nWave
