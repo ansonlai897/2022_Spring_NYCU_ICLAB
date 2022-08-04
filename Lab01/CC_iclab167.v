@@ -3,10 +3,10 @@ module CC(
 	in_n1, 
 	in_n2, 
 	in_n3, 
-    in_n4, 
+        in_n4, 
 	in_n5, 
 	opt,
-    equ,
+        equ,
 	out_n
 );
 input [3:0]in_n0;
